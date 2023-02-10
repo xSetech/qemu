@@ -1,0 +1,15 @@
+// .vscode/c_cpp_properties.json
+{
+    "configurations": [
+        {
+            "name": "default",
+            "cStandard": "c11",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
+            "compilerArgs": [
+                "--sysroot=/Users/setech/Local/SDKs/MacOSX13.sdk",
+            ]
+        }
+    ],
+    "version": 4
+}

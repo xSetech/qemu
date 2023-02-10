@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        "**/.*.*.cmd": true,
+        "**/.*.d": true,
+        "**/.*.S": true
+    },
+    "[c]": {
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4,
+        "editor.insertSpaces": false,
+        "editor.rulers": [100,120]
+    },
+    "files.associations": {
+        "*.h": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "cwchar": "c",
+        "locale": "c",
+        "memory": "c",
+        "new": "c"
+    },
+    "cmake.configureOnOpen": false,
+    "C_Cpp.loggingLevel": "Debug"
+}
